@@ -13,7 +13,7 @@ title                    : "Hello World"
 title_separator          : "-"
 name                     : "hellsins"
 description              : "I am a noob IT"
-url                      : https://h3LLsins.github.io
+url                      : "https://h3LLsins.github.io"
 baseurl                  : "/"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
